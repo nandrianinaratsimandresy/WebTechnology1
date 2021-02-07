@@ -1,0 +1,7 @@
+{
+  "name": "nginx_task",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
